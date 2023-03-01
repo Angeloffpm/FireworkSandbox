@@ -1,6 +1,6 @@
 # Firework Sandbox
 
-This is a mini sandbox game I created as a final project for my Computer Graphics class at university. It is coded in C and utilizes OpenGL graphics and the GLUT library to create the game window and load assets. Running this project on your machine locally may require some of these packages to be installed as a result.
+This is a mini sandbox game I created as a final project for my Computer Graphics class at university. It is coded in C and utilizes OpenGL graphics and the GLUT library to create the game window and load assets. I have only included files I wrote to protect academic integrity.
 
 ## Game Controls:
 ### === Game mode ===
